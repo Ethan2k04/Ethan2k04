@@ -1,11 +1,11 @@
-w## Hi👋 My name is Ethan 
+## Hi👋 My name is Ethan 
 
-<div align=center>![giphy](https://github.com/user-attachments/assets/5716ce53-9f4a-40c9-88d0-e145b5d513a7)
+![giphy](https://github.com/user-attachments/assets/5716ce53-9f4a-40c9-88d0-e145b5d513a7)
 
-- I'm an undergraduate major in computer science currently studying at Nankai University.
-- I like trying new stuffs, exploring new areas and working on new technologies.
-- My motto is: Always exploring 吾将上下而求索
-- Visit my site [https://www.ethan2k04.icu/]{Ethan Site} to learn more ✨
+I'm an undergraduate major in computer science currently studying at Nankai University.  
+I like trying new stuffs, exploring new areas and working on new technologies.  
+My motto is: ** Always exploring 吾将上下而求索 **  
+Visit my site [https://www.ethan2k04.icu/]{Ethan Site} to learn more ✨  
 <!--
 **Ethan2k04/Ethan2k04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
