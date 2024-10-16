@@ -1,6 +1,6 @@
 ## Hi👋 My name is Ethan 
----
-![giphy](https://github.com/user-attachments/assets/5716ce53-9f4a-40c9-88d0-e145b5d513a7)
+
+![giphy](https://github.com/user-attachments/assets/0fdee468-9b97-467c-8c23-8acb9dd5d937)
 
 I'm a CS undergraduate at Nankai University.  
 I like trying new things, exploring new areas and working on new technologies.  
