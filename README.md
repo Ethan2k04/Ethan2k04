@@ -1,9 +1,10 @@
 ## Hi👋 My name is Ethan 
-
+---
 ![giphy](https://github.com/user-attachments/assets/5716ce53-9f4a-40c9-88d0-e145b5d513a7)
 
-I'm an undergraduate major in computer science currently studying at Nankai University.  
-I like trying new stuffs, exploring new areas and working on new technologies.  
+I'm a CS undergraduate at Nankai University.  
+I like trying new things, exploring new areas and working on new technologies.  
+My github repos will focus on computer backend and releated stuffs.  
 My motto is: ** Always exploring 吾将上下而求索 **  
 Visit my site [https://www.ethan2k04.icu/]{Ethan Site} to learn more ✨  
 <!--
