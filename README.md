@@ -3,7 +3,7 @@
 I'm a CS undergraduate at Nankai University.  
 I like trying new things, exploring new areas and working on new technologies.  
 My github repos will focus on computer backend and releated stuffs.  
-My motto is: **Always exploring 吾将上下而求索**  
+My motto is: **_Always exploring 吾将上下而求索_**  
 Visit my site [Ethan Site](https://www.ethan2k04.icu/) to learn more ✨  
 <!--
 **Ethan2k04/Ethan2k04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
