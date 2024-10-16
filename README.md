@@ -1,6 +1,6 @@
 ## Hi👋 My name is Ethan 
 
-I'm a CS undergraduate at Nankai University.  
+I'm a CS undergraduate student at Nankai University.  
 I like trying new things, exploring new areas and working on new technologies.  
 My github repos will focus on computer backend and releated stuffs.  
 My motto is: **_Always exploring 吾将上下而求索_**  
