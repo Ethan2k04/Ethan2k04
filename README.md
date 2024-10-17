@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a CS undergraduate student at Nankai University  <br>My github repos will focus on computer backend and releated stuffs  <br>My motto is: Always exploring 吾将上下而求索  <br>Visit my site [Ethan Site](https://www.ethan2k04.icu/) to learn more ✨  
+I'm a CS undergraduate student at Nankai University  <br>My github repos will focus on computer backend and releated stuffs  <br>My motto is: **_Always exploring 吾将上下而求索_**  <br>Visit my site [Ethan Site](https://www.ethan2k04.icu/) to learn more ✨  
 
 
 # 💻 Tech Stack:
