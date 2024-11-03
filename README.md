@@ -7,7 +7,6 @@ I'm currently a CS undergraduate student at Nankai University  <br>My github rep
 # 📊 GitHub Stats:
 |-------|-------|
 | 内容1 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan2k04&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
-|-------|-------|
 <!-- <br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Ethan2k04&theme=github_dark_dimmed&hide_border=false)<br/> -->
 
