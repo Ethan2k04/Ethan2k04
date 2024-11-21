@@ -1,7 +1,7 @@
 name: generate animation
 
 on:
-  # run automatically every hour
+  # run automatically every 24 hour
   schedule:
     - cron: "0 */24 * * *" 
   
@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
-    permissions:  # 设置权限，确保 GITHUB_TOKEN 有写入权限
+    permissions:  # setup permission，ensure GITHUB_TOKEN has write permission
       contents: write
 
     steps:
