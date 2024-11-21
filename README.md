@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+ # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Ethan2k04!;Welcome+to+my+homepage!)](https://github.com/Ethan2k04)
+
 I'm currently a CS undergraduate student at Nankai University  <br>My github repos will focus on course releated stuffs and app development <br>My motto is: **_Always exploring_**  <br>Visit my site [Ethan's Site](https://www.ethan2k04.icu/) to learn more ✨
 
 # 💻 Tech Stack:
